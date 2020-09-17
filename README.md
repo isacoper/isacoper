@@ -21,6 +21,6 @@
   </a>
   
   <a href="https://www.twitter.com/bellamortt/">
-    <img src="https://img.shields.io/badge/twitter-bellamort-blue">
+    <img src="https://img.shields.io/badge/twitter-bellamortt-blue">
   </a>
 </p>
