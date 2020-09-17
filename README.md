@@ -2,10 +2,10 @@
 
 <h3> :girl: About Me </h3>
 
-- :nail_care: &nbsp; I'm 24 years old girl from Brazil.
-- 🎓 &nbsp; Studying Computer at Universidade Estadual do Norte Fluminense.
+- :nail_care: &nbsp; I'm a 24 years old girl from Brazil.
+- 🎓 &nbsp; Studying Computer Science at Universidade Estadual do Norte Fluminense.
 - :hearts: &nbsp; I'm in love with learning and teaching new things.
-- 😄 &nbsp; Call me she/her.
+- 😄 &nbsp; My pronouns: she/her.
 - :computer: &nbsp; Ruby developer at [XL Solutions](https://xl.solutions/).
 
 <h3> :sparkles: Where you can find me :sparkles: </h3>
