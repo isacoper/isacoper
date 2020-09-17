@@ -5,8 +5,7 @@
 - :nail_care: &nbsp; I'm a 24 years old girl from Brazil.
 - 🎓 &nbsp; Studying Computer Science at Universidade Estadual do Norte Fluminense.
 - :hearts: &nbsp; I'm in love with learning and teaching new things.
-
-- :wrench: &nbsp; Venturing into the maker world of IoT
+- :wrench: &nbsp; Venturing into the maker world of IoT.
 - 😄 &nbsp; My pronouns: she/her.
 - :computer: &nbsp; Ruby developer at [XL Solutions](https://xl.solutions/).
 
