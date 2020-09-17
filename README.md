@@ -26,3 +26,7 @@
     <img src="https://img.shields.io/badge/twitter-bellamortt-blue">
   </a>
 </p>
+
+<h3> :speaking_head: My langs <h3> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacoper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
