@@ -1,7 +1,5 @@
 <h2> Hi there, I'm Isabela 👋 </h2>
 
-![](https://komarev.com/ghpvc/?username=isacoper)
-
 <h3> :girl: About Me </h3>
 
 - :nail_care: &nbsp; I'm a 24 years old girl from Brazil.
