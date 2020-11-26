@@ -19,10 +19,6 @@
   <a href="https://www.instagram.com/isacoper/">
     <img src="https://img.shields.io/badge/instagram-isacoper-blue">
   </a>
-  
-  <a href="https://www.twitter.com/bellamortt/">
-    <img src="https://img.shields.io/badge/twitter-bellamortt-blue">
-  </a>
 </p>
 
 <h3> :speaking_head: My langs <h3> 
