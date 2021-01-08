@@ -2,7 +2,7 @@
 
 <h3> :girl: About Me </h3>
 
-- :nail_care: &nbsp; I'm a 24 years old girl from Brazil.
+- :nail_care: &nbsp; I'm a 25 years old girl from Brazil.
 - 🎓 &nbsp; Studying Computer Science at Universidade Estadual do Norte Fluminense.
 - :hearts: &nbsp; I'm in love with learning and teaching new things.
 - :wrench: &nbsp; Venturing into the maker world of IoT.
