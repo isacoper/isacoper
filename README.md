@@ -13,7 +13,7 @@
 
 <p><br/>
   <a href="https://www.linkedin.com/in/isacoper/">
-    <img src="https://img.shields.io/badge/linkedin-isabela-blue">
+    <img src="https://img.shields.io/badge/linkedin-isacoper-blue">
   </a>
   
   <a href="https://www.instagram.com/isacoper/">
